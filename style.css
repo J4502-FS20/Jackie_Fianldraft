@@ -1,0 +1,63 @@
+h1 {
+  text-align: left;
+  font-size: 50px;
+  font-family: 'Handlee', cursive;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Handlee', cursive;
+}
+
+h3 {
+  font-size: 25px;
+  font-family: 'Piazzolla', serif;
+}
+
+nav{
+  font-family: 'Handlee', cursive;
+  font-size: 18px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F8EDEB;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #F9DCC4;
+}
+
+img{
+  width: 100%;
+  border:0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+Body {
+  background-color: #F8EDEB;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+p {
+  font-family: 'Piazzolla', serif;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
